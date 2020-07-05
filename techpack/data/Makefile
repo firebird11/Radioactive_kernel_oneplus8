@@ -1,2 +1,3 @@
-obj-y += drivers/rmnet/perf/
-obj-y += drivers/rmnet/shs/
+#obj-y += emac-dwc-eqos/
+#obj-y += generic-sw-bridge/
+obj-y += rmnet/
