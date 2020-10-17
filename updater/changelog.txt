@@ -1,0 +1,7 @@
+Project name: Radioactive_kernel_oneplus8/8Pro-V2.0.2
+  * defconfig regenerate (acuicultor) [04ef97087f36]
+  * cpufreq: Don't WARN_ON on non-existent cpu (LibXZR) [264aead7c7aa]
+  * defconfig regenerate (acuicultor) [8fcc2c36c51f]
+  * scsi: ufs-qcom: Disable pm qos usage (LibXZR) [ddbd8ce08e81]
+  * selinux: Allow audit to be disabled (Tyler Nijmeh) [ccdb481e09d5]
+  * reset hard to 7c7708ab84185f5f4e8159aa9b0e1f83c3bcfe94
