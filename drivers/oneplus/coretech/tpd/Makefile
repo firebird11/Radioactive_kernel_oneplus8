@@ -1,1 +1,1 @@
-obj-$(CONFIG_TPD) += tpd.o
+##obj-$(CONFIG_TPD) += tpd.o

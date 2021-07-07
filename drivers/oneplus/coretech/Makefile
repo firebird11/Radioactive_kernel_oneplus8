@@ -29,4 +29,4 @@ obj-$(CONFIG_IM) += im/
 obj-$(CONFIG_PCCORE) += pccore/
 obj-$(CONFIG_VM_FRAGMENT_MONITOR) += vm_fragment_monitor/
 obj-$(CONFIG_UXCHAIN) += uxchain/
-obj-$(CONFIG_TPD) += tpd/
+##obj-$(CONFIG_TPD) += tpd/
