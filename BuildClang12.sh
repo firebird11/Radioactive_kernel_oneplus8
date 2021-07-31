@@ -29,7 +29,7 @@ KERNEL_DIR=`pwd`
 ZIMAGE_DIR="/home/user/Radioactive_kernel_oneplus8/out-clang12/arch/arm64/boot/"
 
 # Kernel Details
-VER="-2.2.2"
+VER="-2.2.5"
 
 # Vars
 BASE_AK_VER="RadioActive-WL-295_UC-920-GPU"
