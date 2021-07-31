@@ -1,4 +1,4 @@
-# Radioactive Kernel 2.2.2 Op8/Pro/8T OOS + 295mhz UC 800/920mhz GPU OC and Adreno Boost set to low
+# Radioactive Kernel 2.2.5 Op8/Pro/8T OOS + 295mhz UC 800/920mhz GPU OC and Adreno Boost set to low
 # Thanks to acuicultor for this great kernel!  I just added what I like to keep it fast while
 # not pulling too much battery, built with Proton Clang 12 for my personal use.  For best results,
 # use his installation AnyKernel3 zip and replace the Image.gz and dtb with this one, flash via
